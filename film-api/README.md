@@ -18,7 +18,7 @@ Este projeto consiste em uma API RESTful desenvolvida em Node.js com Express.js 
 
 ### Configuração do Banco de Dados
 
-1. Abra o arquivo `app.js`.
+1. Abra o arquivo `index.js`.
 2. Substitua `'URL_DO_SEU_BANCO_DE_DADOS'` pela URL do seu banco de dados MongoDB.
 
 ### Execução
